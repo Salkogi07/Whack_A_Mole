@@ -18,7 +18,7 @@ Whack_A_Mole_Game is a simple web-based game where your task is to click on mole
 - [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## How to Play
-1.Clone this repository.
+1. Clone this repository.
 2. Open `index.html` in your preferred web browser.
 3. Click on the grid square where the mole appears to earn points.
 4. Your score and remaining time are shown at the top of the screen.
